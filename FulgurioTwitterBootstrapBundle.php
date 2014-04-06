@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Fulgurio\TwitterBoostrapBundle;
+namespace Fulgurio\TwitterBootstrapBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class FulgurioTwitterBoostrapBundle extends Bundle
+class FulgurioTwitterBootstrapBundle extends Bundle
 {
 }

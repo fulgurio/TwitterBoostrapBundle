@@ -7,5 +7,5 @@ bootstrap for Symfony 2.
 
 How to use
 ----------------------------------
-It's easy, just use {{ asset('bundles/fulguriotwitterboostrap/bootstrap.css') }} 
+It's easy, just use {{ asset('bundles/fulguriotwitterbootstrap/css/bootstrap.css') }} 
 into your template to include bootstrap files (in this case bootstrap.css)
