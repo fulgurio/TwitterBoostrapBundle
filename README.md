@@ -22,7 +22,7 @@ public function registerBundles()
 {
     $bundles = array(
         // ...
-        new Fulgurio\TwitterBootstrapBundle\TwitterBootstrapBundle(),
+        new Fulgurio\TwitterBootstrapBundle\FulgurioTwitterBootstrapBundle(),
     );
 }
 ```
